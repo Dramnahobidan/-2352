@@ -1,0 +1,1 @@
+Targeted updates: working poster/add partnership/export actions, compact KPI poster, Teesside logo loaded from public online URL, RUDN wording corrected, real illustrative stock photo URLs with local SVG fallback, university logo in password gate. Browser-local persistence only.
